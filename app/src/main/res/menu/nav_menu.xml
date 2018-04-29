@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_order"
+            android:icon="@drawable/nav_order"
+            android:title="我的订单" />
+        <item
+            android:id="@+id/nav_money"
+            android:icon="@drawable/nav_money"
+            android:title="我的押金" />
+        <item
+            android:id="@+id/nav_instructor"
+            android:icon="@drawable/nav_instructor"
+            android:title="租车使用指南" />
+        <item
+            android:id="@+id/nav_criterion"
+            android:icon="@drawable/nav_money"
+            android:title="租车收费标准" />
+        <item
+            android:id="@+id/nav_friends"
+            android:icon="@drawable/nav_friends"
+            android:title="常用联系人" />
+        <item
+            android:id="@+id/nav_location"
+            android:icon="@drawable/nav_location"
+            android:title="导航" />
+        <item
+            android:id="@+id/nav_register"
+            android:icon="@drawable/nav_register"
+            android:title="登录/注册" />
+
+    </group>
+</menu>

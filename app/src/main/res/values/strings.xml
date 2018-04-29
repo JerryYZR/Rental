@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Track_rental</string>
+    <string name="landing">登陆</string>
+    <string name="validateNum">发送验证码</string>
+    <string name="validate">请输入验证码</string>
+    <string name="tel">请输入电话号码</string>
+    <string name="register"><u>登录/注册</u></string>
+</resources>
